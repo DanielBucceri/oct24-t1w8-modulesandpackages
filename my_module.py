@@ -1,5 +1,3 @@
-
-
 __greeting = 'Hello world'
 
 nums  = [2, 1, 3]
