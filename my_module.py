@@ -9,4 +9,3 @@ person = {
 
 def foo(person):
     print(f'{person.get('name')} is {person.get('age')} years old')
-    
